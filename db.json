@@ -1,0 +1,34 @@
+[
+    {
+        "name": 1,
+        "fan": true
+    },
+    {
+        "name": 2,
+        "fan": false
+    },
+    {
+        "name": 3,
+        "fan": true
+    },
+    {
+        "name": 4,
+        "fan": false
+    },
+    {
+        "name": 5,
+        "fan": true
+    },
+    {
+        "name": 6,
+        "fan": true,
+        "led": true,
+        "R": 125,
+        "G": 127,
+        "B": 105
+    }
+    
+]
+
+
+
